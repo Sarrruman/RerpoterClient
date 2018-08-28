@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reporter</string>
+    <string name="action_submit_button">Submit</string>
+</resources>
